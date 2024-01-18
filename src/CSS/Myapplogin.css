@@ -1,0 +1,177 @@
+.main{
+  text-align: center;
+  margin: 0;
+  padding: 52px;
+  background-size: cover;
+  background-color: #ededed;
+}
+.name{
+  font-size: 28px;
+  color: #0469eb;
+  font-weight: 600;
+  margin-top: -5%;
+}
+.submain{
+  width: 432px;
+  background-color: white;
+  border-radius: 8px;
+  margin-left: 33%;
+  margin-top: -2%;
+}
+.create{
+    font-size: 26px;
+    font-weight: 500;
+    padding: 2%;
+}
+.date{
+  padding: 12px;
+}
+.it{
+  text-align: center;
+    font-size: 16px;
+    margin-top: -3%;
+    color: #746e6e;
+}
+.user{
+  display: flex;
+  border-top: 1px solid #c5c0c0;
+  margin-top: 20px;
+}
+.user input{
+  font-size: 16px;
+    padding: 2%;
+    margin-top: 10px;
+    width: 170px;
+    margin-left: 16px;
+    border-color: #ebebeb;
+    border-style: ridge;
+    border-radius: 6px;
+
+}
+.mail input{
+  font-size: 16px;
+  padding: 2%;
+  margin-top: -7px;
+  width: 377px;
+  margin-left: 3px;
+  border-radius: 7px;
+  border-color: #ebebeb;
+  border-style: ridge;
+
+}
+.pass input{
+  font-size: 16px;
+  padding: 2%;
+  margin-top: 10px;
+  width: 377px;
+  margin-left: 3px;
+  border-radius: 7px;
+  border-color: #ebebeb;
+  border-style: ridge;
+}
+
+#user{
+  font-size: 15px;
+  padding: 2%;
+  margin-top: 10px;
+  width: 115px;
+  margin-left: -28%;
+  border-radius: 7px;
+  border-color: #858080;
+  border-style: ridge;
+  margin-right: -30%;
+
+
+}
+.h4{
+  font-size: 13px;
+  margin-left: -70%;
+  color: #666;
+  margin-top: 6%;
+}
+.Gen h4{
+  font-size: 13px;
+  margin-left: -76%;
+  color: #666;
+  margin-top: 2%;
+  font-weight: 400;
+}
+.gen{
+  display: flex;
+  width: 97%;
+}
+.genFemale{
+    border: 1px solid #858080;
+    width: 101px;
+    padding: 8px;
+    border-radius: 6px;
+    margin-left: 7%;
+    margin-top: -2%;
+    display: flex;
+}
+.genmale{
+  border: 1px solid #858080;
+  width: 101px;
+  padding: 8px;
+  border-radius: 6px;
+  margin-left: 7%;
+  margin-top: -2%;
+}
+.gencustom{
+  border: 1px solid #858080;
+  width: 101px;
+  padding: 8px;
+  border-radius: 6px;
+  margin-left: 7%;
+  margin-top: -2%;
+  display: flex;
+  margin-right: 1%;
+}
+.gender{
+  margin-left: 27px;
+}
+.for{
+  font-size: 11px;
+  color: #666;
+  margin-left: 6%;
+  margin-top: 3%;
+  font-weight: 500;
+  text-align: left;
+}
+.term{
+  font-size: 11px;
+  color: #666;
+  margin-left: 6%;
+  margin-top: -3%;
+  text-align: left;
+  font-weight: 500;
+}
+.btn{
+  background: none;
+    background-color: #00a400;
+    border: none;
+    border-radius: 6px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none;
+    margin-top: 22px;
+    width: 50%;
+}
+.link{
+  font-size: 22px;
+  margin-top: 12px;
+  color: white;
+
+}
+#hyperlink{
+  color: #004093;
+  text-decoration: none;
+}
+.date style{
+  margin-left: 25px;
+}
